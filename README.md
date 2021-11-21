@@ -1,6 +1,6 @@
 # Proiect-TW
 
-#Share your food
+## Share your food
 
 Aplicație web pentru a preveni risipa de alimente, utilizatorii putand să ofere alimente pe care nu le mai consumă.
 
