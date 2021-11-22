@@ -12,9 +12,7 @@ Aplicația încurajează utilizatorii să conștientizeze risipa de alimente în
 Grupul țintă:
 Grupul țintă este reprezentat de persoanele dintr-o comunitate mica, vecini din acelasi bloc, aceeasi strada sau acelasi cartier, ce doresc sa imparta din mancare, in acest sens, aplicația va eficientiza procesul. 
 
-Funcționalități:
-
-Ca utilizator: 
+Functionalitati ca utilizator: 
 -pot sa fac o lista de alimente organizată pe categorii cu produsele de care dispun.
 - primesc alerte cand un produs se apropie de termenul de valabilitate. Am posibilitatea de a marca acele produse ca fiind disponibile.
 - pot sa îmi definesc grupuri de prieteni și sa ii etichetez dupa categorii precum vegetarieni si sa ii invit sa se uite pe lista de alimente disponibile
