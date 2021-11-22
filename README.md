@@ -22,7 +22,10 @@ Integrare cu instagram si facebook pentru a posta produsele disponibile
 Aplicatia va avea back-end RESTful realizat in node.js care accesează prin intermediul unui ORM date stocate într-o bază relațională pe baza unui API de persistenţă și date expuse de un serviciu extern și frontend SPA realizat cu un framework bazat pe componente, React.js
 
 ## Macheta pentru interfata aplicatiei cu componente si entitati, apeluri API si optiunile utilizatorului 
-
+### Interfata utilizator
+### Componente
+### Apeluri API
+### Actiuni utilizator
 
 
 
