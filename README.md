@@ -1,4 +1,4 @@
-# Proiect-TW
+# Proiect-Tehnologii web
 
 ## Share your food
 ###Despre aplicatie
